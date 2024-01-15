@@ -10,7 +10,7 @@ In my new career I am looking for an opportunity to add value to a collaborative
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Bald Bible**               | A fullstack Pinterest-style Hair Loss positivity website to help people cope with hair loss rather than use hair loss prevention products. Main focus was working with images using Cloudinary. Other functionaliuty includes having a responsive feed page, image upload, login/signup, likes and comments. Built in 2 weeks using AGILE methodology | MongoDB, Express, React, Node.js, Git, HTML, CSS (Tests: Jest, Cypress) |
+| [**Bald Bible**](https://github.com/hjtrhodes/baldbibleHR)               | A fullstack Pinterest-style Hair Loss positivity website to help people cope with hair loss rather than use hair loss prevention products. Main focus was working with images using Cloudinary. Other functionaliuty includes having a responsive feed page, image upload, login/signup, likes and comments. Built in 2 weeks using AGILE methodology | MongoDB, Express, React, Node.js, Git, HTML, CSS (Tests: Jest, Cypress) |
 | **Acebook**                  | A fullstack Facebook clone made from a starter codebase. Includes posts, newsfeed, profile page, likes, comments, search, image uploads. Built in a collaborative team in 2 weeks using AGILE methodology | MongoDB, Express, React, Node.js, Git, HTML, CSS (Tests: Jest, Cypress) |
 | **Makers BNB**               | An AirBnB clone made from a starter codebase. Includes login, signup, sessions, user spaces, book a space with calendar. Built in a collaborative team in 1 week using AGILE methodology | Python, Flask, PostgreSQL (Tests: Pytest) |
 
@@ -50,12 +50,10 @@ Through thorough planning and organisation, I delivered engaging lesson content 
 - AGILE methodology - Working in small engineering teams to produce projects using daily standups, pair programming and mobbing, Trello boards to manage workflow, presenting products and retro meetings to review team effectiveness.
 - Cloud Engineering - Containerising and deploying applications with Docker and Exoframe, managing data persistence using volumes and securing sensitive information with hashing.
 
-#### Your University / College (start_date to end_date)
-
-- 2016-2018	University of East London - Master of Arts in Education, Pass with Distinction
-- 2014-2015	University of East London - Postgraduate Certificate of Education
-- 2008-2011	University of Exeter - Bachelor of Arts with Honours in Sociology, 2:1 
-- 2002-2008	Victoria College Jersey, Jersey (Channel Islands)
+- **2016-2018	University of East London - Master of Arts in Education, Pass with Distinction**
+- **2014-2015	University of East London - Postgraduate Certificate of Education**
+- **2008-2011	University of Exeter - Bachelor of Arts with Honours in Sociology, 2:1** 
+- **2002-2008	Victoria College Jersey, Jersey (Channel Islands)**
   3 x A Levels (A, A, C), 1 x AS Level (B)
   11 x GCSEs (5 x A, 6 x B)
 
