@@ -41,23 +41,26 @@ Through thorough planning and organisation, I delivered engaging lesson content 
 ## Education
 
 #### Makers Academy (Sept '23 to Jan '24)
-- Version Control  - Developing Proficiency with using the CLI and managing projects using Git and GitHub for version control - merging, branching, pull requests etc.
-- Python and Design Principles - Creating programs in Python using TDD to ensure code quality, SOLID principles for class design and designing and implementing multi class systems to create maintainable and changeable code. 
-- Database Management - Using SQL to create databases and embed SQL statements into Python functions for CRUD operations, designing schemas, implementing table relationships, and executing complex queries including joins. Using MongoDB, Mongoose and Express for NoSQL database - management, becoming proficient in schema design and data modelling.
-- Web Development - Creating web applications using Flask, HTML, CSS and Jinja/Jinja 2 for dynamic content creation, then debugging, securing and creating interactivity in those applications.
-- Javascript - Learning JS fundamentals and TDD with Jest, utilising callbacks, promises and asynchronous programming to optimise performance in the browser.
-- React - Extending web development skills by incorporating React (and a MERN tech stack) to build dynamic and responsive user interfaces, implementing React components, managing state, and proficiently passing props for efficient data and functionality sharing between components.
-- AGILE methodology - Working in small engineering teams to produce projects using daily standups, pair programming and mobbing, Trello boards to manage workflow, presenting products and retro meetings to review team effectiveness.
-- Cloud Engineering - Containerising and deploying applications with Docker and Exoframe, managing data persistence using volumes and securing sensitive information with hashing.
+- Version Control: Git/GitHub proficiency.
+- Python: TDD, SOLID principles, multi-class systems.
+- Database Management: SQL, MongoDB, schema design.
+- Web Development: Flask, HTML, CSS, Jinja, creating interactivity.
+- JavaScript: Fundamentals, Jest, async programming, useEffect and passing props and state.
+- React: MERN stack, creating dynamic UIs, state management.
+- AGILE: Team collaboration, Trello, stand ups and retrospectives.
+- Cloud Engineering: Docker, Exoframe, secure deployment.
 
-- **2016-2018	University of East London - Master of Arts in Education, Pass with Distinction**
-- **2014-2015	University of East London - Postgraduate Certificate of Education**
-- **2008-2011	University of Exeter - Bachelor of Arts with Honours in Sociology, 2:1** 
-- **2002-2008	Victoria College Jersey, Jersey (Channel Islands)**
-  3 x A Levels (A, A, C), 1 x AS Level (B)
-  11 x GCSEs (5 x A, 6 x B)
+#### 2016-2018	University of East London
+  - Master of Arts in Education, Pass with Distinction
+#### 2014-2015	University of East London 
+  - Postgraduate Certificate of Education
+#### 2008-2011	University of Exeter 
+  - Bachelor of Arts with Honours in Sociology, 2:1 
+#### 2002-2008	Victoria College Jersey, Jersey (Channel Islands)
+  - 3 x A Levels (A, A, C), 1 x AS Level (B)
+  - 11 x GCSEs (5 x A, 6 x B)
 
-#### Interests
+### Interests
 
 - My wonderful son Freddie and (also wonderful) wife Madeleine.
 - Sports: Taking part in road/gravel cycling, running and weightlifting.
