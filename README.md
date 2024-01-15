@@ -2,7 +2,7 @@
 
 As an aspiring tech professional with a background as a primary teacher and year group leader, I bring a unique blend of creative, analytical and interpersonal skills as well as a passionate growth mindset to the world of technology. 
 
-After taking time to expose myself to basic programming in HTML, CSS and Python I realised how much I enjoyed the challenge of solving coding problems and mastering new ideas. As a result I made the exciting decision to pursue a career in Tech and enrolled on the Makers Software Development bootcamp. I have since been pleased to discover that abilities honed in my previous career, such as simplifying and breaking down concepts, collaborating with a team to pursue a shared goal and my desire to learn, have served me well when mastering the new technologies, programming languages, and development tools I have been exposed to. 
+After taking time to expose myself to basic programming in HTML, CSS and Python I realised how much I enjoyed the challenge of solving coding problems and mastering new ideas. As a result I made the exciting decision to pursue a career in Tech and completed the Makers Software Development bootcamp. It was there I was pleased to discover that abilities honed in my previous career, such as simplifying and breaking down concepts, collaborating with a team to pursue a shared goal and my desire to learn, have served me well when mastering the new technologies, programming languages, and development tools I have been exposed to. 
 
 In my new career I am looking for an opportunity to add value to a collaborative and innovative environment. I am excited to progress my skills by deepening my current knowledge base and challenging myself to learn even more new technologies.
 
