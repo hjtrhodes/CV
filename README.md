@@ -18,7 +18,7 @@ In my new career I am looking for an opportunity to add value to a collaborative
 
 ### Crosfields School / Head of Year 3 - (September 2022 - March 2023)
 ### Britannia Village Primary School / Year 5 and 6 Leader - (September 2014 - August 2022)  
-- Managed diverse educational teams for 8 years, fostering adaptability and remote collaboration, ensuring effective performance and positive relationships.
+- Managed diverse educational teams for 8 years, fostering adaptability and collaboration, ensuring effective performance and positive relationships.
 - Achieved Google Level 2 Educator certification, integrating Google Education software to enhance lesson engagement, fostering technological literacy, especially during the pandemic.
 - Taught coding concepts using Scratch, demonstrating the ability to simplify complex ideas for pupils who created their own programs.
 - Cultivated a culture of continuous improvement, providing positive feedback, enhancing joint professional performance among teaching colleagues.
