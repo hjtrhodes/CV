@@ -10,8 +10,7 @@ In my new career I am looking for an opportunity to add value to a collaborative
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| [**Bald Bible Code**](https://github.com/hjtrhodes/baldbibleHR)      [Bald Bible Demo](https://baldbible-s8q0.onrender.com/)
-| A fullstack Pinterest-style hair loss positivity website to help people accept the change rather than use prevention products. The main focus was working with images using Cloudinary. Other functionality includes having a responsive feed page, image upload, login/signup, likes and comments. Built in 2 weeks using AGILE methodology | MongoDB, Express, React, Node.js, Git, HTML, CSS (Tests: Jest, Cypress) |
+| [**Bald Bible Code**](https://github.com/hjtrhodes/baldbibleHR)  | [Bald Bible Demo](https://baldbible-s8q0.onrender.com/)  | A fullstack Pinterest-style hair loss positivity website to help people accept the change rather than use prevention products. The main focus was working with images using Cloudinary. Other functionality includes having a responsive feed page, image upload, login/signup, likes and comments. Built in 2 weeks using AGILE methodology | MongoDB, Express, React, Node.js, Git, HTML, CSS (Tests: Jest, Cypress) |
 | [**Acebook**](https://github.com/hjtrhodes/Acebook-my-version)       | A fullstack Facebook clone made from a starter codebase. Includes posts, newsfeed, profile page, likes, comments, search, image uploads. Built in a collaborative team in 2 weeks using AGILE methodology | MongoDB, Express, React, Node.js, Git, HTML, CSS (Tests: Jest, Cypress) |
 | [**Makers BNB**](https://github.com/hjtrhodes/MakersBNBPersonal)               | An AirBnB clone made from a starter codebase. Includes login, signup, sessions, user spaces, book a space with calendar. Built in a collaborative team in 1 week using AGILE methodology | Python, Flask, PostgreSQL (Tests: Pytest) |
 
