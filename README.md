@@ -1,10 +1,10 @@
 ## Harry Rhodes
 
-As an aspiring tech professional with a background as a primary teacher and year group leader, I bring a unique blend of creative, analytical and interpersonal skills as well as a passionate growth mindset to the world of technology. 
+As an aspiring tech professional with a background as a primary teacher and year group leader, I have a proven track record of effective collaboration and communication when leading teams and maintaining positive relationships with a plethora of stakeholders; strong adaptation and problem solving skills when helping individuals to make progress, regardless of their needs; and a budding passion for all things technological after utilising technology to inspire young people. 
 
-After taking time to expose myself to basic programming in HTML, CSS and Python I realised how much I enjoyed the challenge of solving coding problems and mastering new ideas. As a result I made the exciting decision to pursue a career in Tech and completed the Makers Software Development bootcamp. It was there I was pleased to discover that abilities honed in my previous career, such as simplifying and breaking down concepts, collaborating with a team to pursue a shared goal and my desire to learn, have served me well when mastering the new technologies, programming languages, and development tools I have been exposed to. 
+After taking time to expose myself to basic programming in HTML, CSS and Python I realised how much I enjoyed the challenge of solving coding problems and mastering new ideas. As a result I made the exciting decision to pursue a career in Tech and completed the Makers Software Development bootcamp. It was there I was pleased to discover that abilities honed in my previous career, such as simplifying and breaking down concepts, working with a team to pursue a shared goal and my desire to learn, have served me well when mastering new technologies, programming languages, and development tools.
 
-In my new career I am looking for an opportunity to add value to a collaborative and innovative environment. I am excited to progress my skills by deepening my current knowledge base and challenging myself to learn even more new technologies.
+In my new career I am looking for an opportunity to add value to a collaborative and innovative environment. I am excited to progress my skills by applying my growth mindset to expand my knowledge base further.
 
 ## Projects
 
