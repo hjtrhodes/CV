@@ -6,8 +6,7 @@ I am a Full-Stack Developer and graduate from Makers Academy specialising in Jav
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| [**Bald Bible Code**](https://github.com/hjtrhodes/baldbibleHR)  /  [**Bald Bible Demo**](https://baldbible-s8q0.onrender.com/)  | Pinterest-style hair loss positivity website. Languages: Javascript, HTML(JSX), CSS. Functionality: Cloudinary Image upload, responsive feed page, login/signup, BCrypt password security, likes, comments, dynamic styling, TDD.
- | React.js, Express Node.js,MongoDB, GitHub (TDD: Jest, Cypress) |
+| [**Bald Bible Code**](https://github.com/hjtrhodes/baldbibleHR)  /  [**Bald Bible Demo**](https://baldbible-s8q0.onrender.com/)  | Pinterest-style hair loss positivity website. Languages: Javascript, HTML(JSX), CSS. Functionality: Cloudinary Image upload, responsive feed page, login/signup, BCrypt password security, likes, comments, dynamic styling, TDD.| React.js, Express Node.js,MongoDB, GitHub (TDD: Jest, Cypress) |
 | [**Acebook**](https://github.com/hjtrhodes/Acebook-my-version)  /  [**Acebook Demo**](https://acebook-mo3r.onrender.com/)     | A fullstack Facebook clone made from a starter codebase. Includes posts, newsfeed, profile page, likes, comments, search, image uploads. Built in a collaborative team in 2 weeks using AGILE methodology | MongoDB, Express, React, Node.js, Git, HTML, CSS (Tests: Jest, Cypress) |
 | [**Makers BNB**](https://github.com/hjtrhodes/MakersBNBPersonal)  | An AirBnB clone made from a starter codebase. Includes login, signup, sessions, user spaces, book a space with calendar. Built in a collaborative team in 1 week using AGILE methodology | Python, Flask, PostgreSQL (Tests: Pytest) |
 
