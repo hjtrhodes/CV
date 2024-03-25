@@ -1,16 +1,15 @@
 ## Harry Rhodes
 
-As an aspiring tech professional with a background as a primary teacher and year group leader, I have a proven track record of effective collaboration and communication when leading teams and maintaining positive relationships with a plethora of stakeholders; strong adaptation and problem solving skills when helping individuals to make progress, regardless of their needs; and a budding passion for all things technological after utilising technology to inspire young people. 
-
-After taking time to expose myself to basic programming in HTML, CSS and Python I realised how much I enjoyed the challenge of solving coding problems and mastering new ideas. As a result I made the exciting decision to pursue a career in Tech and completed the Makers Software Development bootcamp. It was there I was pleased to discover that abilities honed in my previous career, such as simplifying and breaking down concepts, working with a team to pursue a shared goal and my desire to learn, have served me well when mastering new technologies, programming languages, and development tools.
-
-In my new career I am looking for an opportunity to add value to a collaborative and innovative environment. I am excited to progress my skills by applying my growth mindset to expand my knowledge base further.
+I am a Full-Stack Developer and graduate from Makers Academy specialising in Javascript with experience in modern frameworks including React.js and Node.js. I have worked in Agile teams to build test-driven apps using a MERN and Python/Flask stack. I previously spent 8 years working in Education as a Teacher and Year Group Leader with a proven track record for effective teamwork, communication and leadership. I thrive in a collaborative environment which embraces diversity and has a focus on continuous improvement and learning
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| [**Bald Bible Code**](https://github.com/hjtrhodes/baldbibleHR)  /  [**Bald Bible Demo**](https://baldbible-s8q0.onrender.com/)  | A fullstack Pinterest-style hair loss positivity website to help people accept the change rather than use prevention products. The main focus was working with images using Cloudinary. Other functionality includes having a responsive feed page, image upload, login/signup, likes and comments. Built in 2 weeks using AGILE methodology | MongoDB, Express, React, Node.js, Git, HTML, CSS (Tests: Jest, Cypress) |
+| [**Bald Bible Code**](https://github.com/hjtrhodes/baldbibleHR)  /  [**Bald Bible Demo**](https://baldbible-s8q0.onrender.com/)  | Pinterest-style hair loss positivity website 
+Languages: Javascript, HTML(JSX), CSS
+Functionality: Cloudinary Image upload, responsive feed page, login/signup, BCrypt password security, likes, comments, dynamic styling, TDD.
+ | MongoDB, Express, React, Node.js, Git, HTML, CSS (Tests: Jest, Cypress) |
 | [**Acebook**](https://github.com/hjtrhodes/Acebook-my-version)  /  [**Acebook Demo**](https://acebook-mo3r.onrender.com/)     | A fullstack Facebook clone made from a starter codebase. Includes posts, newsfeed, profile page, likes, comments, search, image uploads. Built in a collaborative team in 2 weeks using AGILE methodology | MongoDB, Express, React, Node.js, Git, HTML, CSS (Tests: Jest, Cypress) |
 | [**Makers BNB**](https://github.com/hjtrhodes/MakersBNBPersonal)  | An AirBnB clone made from a starter codebase. Includes login, signup, sessions, user spaces, book a space with calendar. Built in a collaborative team in 1 week using AGILE methodology | Python, Flask, PostgreSQL (Tests: Pytest) |
 
