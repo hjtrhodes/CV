@@ -8,10 +8,8 @@ I am a Full-Stack Developer and graduate from Makers Academy specialising in Jav
 | ---------------------------- | ----------------- | ----------------- |
 | [**Bald Bible Code**](https://github.com/hjtrhodes/baldbibleHR)  /  [**Bald Bible Demo**](https://baldbible-s8q0.onrender.com/)  | Pinterest-style hair loss positivity website. Languages: Javascript, HTML(JSX), CSS. Functionality: Cloudinary Image upload, responsive feed page, login/signup, BCrypt password security, likes, comments, dynamic styling, TDD.| React.js, Express Node.js,MongoDB, GitHub (TDD: Jest, Cypress) |
 | [**Acebook**](https://github.com/hjtrhodes/Acebook-my-version)  /  [**Acebook Demo**](https://acebook-mo3r.onrender.com/)     | Facebook clone. Languages: Javascript, Typescript, HTML(JSX), Tailwind CSS. Functionality:  Posts (CRUD), newsfeed, profile page, image upload, likes, comments, search, responsive styling, TDD.| React.js, Express Node.js,MongoDB, GitHub
-(TDD: Jest, Cypress)
- |
-| [**Makers BNB**](https://github.com/hjtrhodes/MakersBNBPersonal)  | AirBnB clone. Languages: Python, HTML, CSS. Functionality: login, signup, sessions, user spaces, book a space with calendar, confirm/delete booking, TDD. 
- | Python, Flask, PostgreSQL (Tests: Pytest) |
+(TDD: Jest, Cypress) |
+| [**Makers BNB**](https://github.com/hjtrhodes/MakersBNBPersonal)  | AirBnB clone. Languages: Python, HTML, CSS. Functionality: login, signup, sessions, user spaces, book a space with calendar, confirm/delete booking, TDD. | Python, Flask, PostgreSQL (Tests: Pytest) |
 
 ## Work Experience
 
