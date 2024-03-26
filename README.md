@@ -12,17 +12,16 @@ I am a Full-Stack Developer and graduate from Makers Academy specialising in Jav
 
 ## Work Experience
 
-### Crosfields School / Head of Year 3 - (September 2022 - May 2023)
-### Britannia Village Primary School / Year 5 and 6 Leader - (September 2014 - August 2022)  
-- Managed diverse educational teams for 8 years, fostering adaptability and collaboration, ensuring effective performance and positive relationships.
-- Achieved Google Level 2 Educator certification, integrating Google Education software to enhance lesson engagement, fostering technological literacy, especially during the pandemic.
-- Taught coding concepts using Scratch, demonstrating the ability to simplify complex ideas for pupils who created their own programs.
-- Cultivated a culture of continuous improvement, providing positive feedback, enhancing joint professional performance among teaching colleagues.
-- Delivered tailored, engaging lesson content through thorough planning and organization, addressing diverse learning needs.
-- Redesigned curriculum units, showcasing creativity and innovation, resulting in improved curriculum engagement and educational standards.
-- Maintained resilient and efficient communication with parents, handling challenging conversations and conflicts while preserving positive relationships.
-- Mentored new teachers and PGCE students, guiding them towards effective teaching methods, contributing to collective pedagogical improvement.
-- Pursued a part-time Masters in Education, showcasing commitment to continuous learning, research, and analytical thinking, now beneficial in my Makers journey!
+### Crosfields School, Reading/ Head of Year 3 - (September 2022 - May 2023)
+### Britannia Village Primary School, London / Year 5 and 6 Leader - (September 2014 - August 2022)  
+- Collaboration - I worked in diverse educational environments, effectively managing relationships, collaborating with a range of stakeholders and demonstrating my adaptability to lead high-achieving and effective teams.
+- Technology - Boosted pupil engagement and technological literacy by obtaining a Google Level 2 Educator certification and integrating Google Education software into lessons.
+- Teaching Coding - Introduced fundamental coding concepts using Scratch, simplifying complex ideas for pupils to create their own programs.
+- Continuous Improvement - Led a culture of continuous improvement among colleagues by providing and receiving feedback with a consistently positive attitude, enhancing professional performance.
+- Innovation - Challenged the makeup of curriculum units and redesigned them. This allowed me to display my creativity and led to improvement in curriculum engagement and educational standards.
+- Communication - regularly communicated with stakeholders, exhibiting resilience, efficiency and managing relationships when liaising on pupil progress, behaviour and handling challenging conversations.
+- Mentoring - Acted as a mentor for many new teachers and PGCE students, empowering and guiding them towards effective teaching methods and collectively improving our pedagogy.
+- Masters Degree - Studied part time for my Masters Degree in Education, this involved rigorous research, analytical thinking and a commitment to continuous learning.
 
 ## Skills
 
@@ -58,8 +57,7 @@ I am a Full-Stack Developer and graduate from Makers Academy specialising in Jav
 
 ### Interests
 
-- My wonderful son Freddie and (also wonderful) wife Madeleine.
 - Sports: Taking part in road/gravel cycling, running and weightlifting.
-- Tech: Learning as much as I can, building as much as I can and honing my skills on Codewars!
-- Travelling: South America, New Zealand, Africa, United States and Europe.
-- Charitable Challenges: Itex Walk (48 miles for Jersey Hospice), Jersey Marathon, the MoonWalk (marathon walk for breast cancer), volunteering for the Jersey Overseas Aid Commission in Uganda.
+- Family: I have an adorable toddler (Freddie) and wonderful wife (Madeleine) who keep me busy!
+- Travelling: South America, New Zealand, Africa, United States and Europe. Next on my list is Scandinavia.
+- Charity: Itex Walk (48 miles for Jersey Hospice), Jersey Marathon, the MoonWalk (marathon walk for breast cancer), volunteering for the Jersey Overseas Aid Commission in Uganda. 
